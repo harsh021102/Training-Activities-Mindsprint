@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner{
+    height: 100vh;
+    width: 100%;
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 2;
+}
+.heading-container{
+    position: relative;
+    bottom: 55%;
+    left: 20%;
+    width: 20rem;
+    /* background-color: brown; */
+}
+.heading{
+    font-size: 5em;
+    color: white;
+}
+.banner-video{
+   
+    width: 100%;
+    background-color: aqua;
+}
